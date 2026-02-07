@@ -1,6 +1,6 @@
 # HRMS Lite — Full Stack Mini Project
 
-## 📌 Project Overview
+##  Project Overview
 HRMS Lite is a lightweight Human Resource Management System built as a full-stack web application.  
 It allows an admin user to manage employee records and track daily attendance through REST APIs and a simple web interface.
 
@@ -16,7 +16,7 @@ Main features include:
 
 ---
 
-## 🛠 Tech Stack Used
+## Tech Stack Used
 
 ### Backend
 - Python
@@ -37,7 +37,7 @@ Main features include:
 
 ---
 
-## ▶️ Steps to Run the Project Locally
+## Steps to Run the Project Locally
 
 ### 1. Clone the repository
 ```bash
